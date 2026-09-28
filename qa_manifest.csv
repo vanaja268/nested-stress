@@ -1,0 +1,5 @@
+file,case,physical_lines,requested_nesting_levels,parser_max_element_depth,fieldPermissions_elements,readable_true_expected_findings,size_bytes,sha256
+force-app/main/default/profiles/QA_Wide_125K_Siblings.profile,wide,250000,0,3,124998,2000,17872827,5230e5261554ce30ee9e65ac0ba69377eb3ee06a277089c19d21a4ea10ebe5c2
+force-app/main/default/profiles/QA_Deep_100_Levels.profile,deep,250000,100,103,2000,2000,15498699,f98e4faa8a484b8cbb01e38f59077d3b960940b9cba94329148ec8fea02be91b
+force-app/main/default/profiles/QA_Deep_200_Levels.profile,deep,250000,200,203,2000,2000,15504999,aea172849f94d9f0deffe3aa6f73f62264ca1dada89022d503925f1c4743d1dc
+force-app/main/default/profiles/QA_Deep_500_Levels.profile,deep,250000,500,503,2000,2000,15523899,48bb3746ec8c311d9b6b169d642c1e7c41a2659226d1e7ae8a13b9c4e5568d76
